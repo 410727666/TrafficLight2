@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">紅綠燈(陳映諭)</string>
+    <string name="start">開始遊戲</string>
+    <string name="end">結束系統</string>
+</resources>
